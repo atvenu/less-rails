@@ -1,5 +1,14 @@
 # CHANGELOG
 
+### 3.0.0 - 2017-10-02
+
+* Solve deprecation warning via Grease adapter!
+
+### 2.8.0 - 2016-10-12
+
+* Make it possible to pass parameters to less.rb
+  Fixes https://github.com/metaskills/less-rails/issues/94
+
 ### 2.7.1 - 2016-09-01
 
 * Fix Sprockets 3 integration. Thanks @suzan2go and @ccallebs!
